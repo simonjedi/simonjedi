@@ -38,7 +38,7 @@ I'm building toward something that makes markets work better: getting the right 
 - **Why MCP is clunky.** MCP is the right standard and the wrong experience. Connectors, OAuth hops and tool lists all make sense to developers and mean nothing to everyone else.
 - **Onboarding mainstream users through MCP.** How do you get someone who has never heard of MCP from "this sounds useful" to a connected, working AI memory in under a minute? Nobody has cracked it yet.
 - **Proving an agent did the work.** Evidence, provenance and verification for autonomous agents, so "done" actually means done.
-- **Agentic AI over SMS, for places without Wi-Fi.** A text-only system that gives a basic mobile phone low-bandwidth, agentic access to AI, for education and essential services in remote areas and communities with no reliable internet. My [SMS AI work](https://github.com/simonjedi/UK_HCP_SMS_Ai) already runs with no app and no data connection; the next step is making it a capable agent.
+- **Agentic AI over SMS, for places without Wi-Fi.** A text-only system that gives a basic mobile phone low-bandwidth, agentic access to AI, for education and essential services in remote areas and communities with no reliable internet. My SMS AI work already runs with no app and no data connection; the next step is making it a capable agent.
 - **Free supervision from devices.** On-device models as an endless, zero-cost labelling pipeline for video and sensor data.
 
 
@@ -97,7 +97,7 @@ AI fitness and nutrition app. Its launch site, **Lift Hacker**, took **8,000 sig
 Built the production AI core, the data-extraction research pipeline and the TypeScript/React platform front end, running on financial data at scale with production-grade accuracy demands.
 
 **Healthcare data specialist** — *UK medicines market*<br>
-Specialist in the healthcare datasets used to launch medicines in the UK: NHS formularies, prescribing and organisation data, epidemiology and demand forecasting for market access. Built [NHS formulary analysis](https://github.com/simonjedi/Diamond_formulary_standard) and an [SMS AI for UK healthcare professionals](https://github.com/simonjedi/UK_HCP_SMS_Ai) with GMC/NMC verification and NHS organisation validation.
+Specialist in the healthcare datasets used to launch medicines in the UK: NHS formularies, prescribing and organisation data, epidemiology and demand forecasting for market access. Built NHS formulary analysis and an SMS AI for UK healthcare professionals with GMC/NMC verification and NHS organisation validation.
 
 **Royal Marines** — *Commando*<br>
 Where I learned to operate under pressure, plan for things going wrong, and finish what I start.
