@@ -97,7 +97,7 @@ AI fitness and nutrition app. Its launch site, **Lift Hacker**, took **8,000 sig
 Built the production AI core, the data-extraction research pipeline and the TypeScript/React platform front end, running on financial data at scale with production-grade accuracy demands.
 
 **Healthcare data specialist** — *UK medicines market*<br>
-Specialist in the healthcare datasets used to launch medicines in the UK: NHS formularies, prescribing and organisation data, epidemiology and demand forecasting for market access. Built NHS formulary analysis and an SMS AI for UK healthcare professionals with GMC/NMC verification and NHS organisation validation.
+Specialist in the healthcare datasets used to launch medicines in the UK: NHS formularies, prescribing and organisation data, epidemiology and demand forecasting for market access. Built NHS formulary analysis and an SMS AI for UK healthcare professionals with GMC/NMC verification and NHS organisation validation. Built a **care home search engine and credit-intelligence platform** (2023–24) that fused the CQC register, inspection reports, Companies House filings, annual accounts, pricing and reviews into one vector-searchable knowledge base, so lenders could ask plain-English questions like *"what's this operator's borrowing capacity?"* and get answers grounded in the source documents.
 
 **Royal Marines** — *Commando*<br>
 Where I learned to operate under pressure, plan for things going wrong, and finish what I start.
