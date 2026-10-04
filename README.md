@@ -8,7 +8,7 @@
 
 I left the Royal Marines and taught myself to build: first hardware, then data science, then AI. Since then I've founded a wearable tech company that went on Dragons' Den and launched exclusively in Harrods, built a fitness platform that took **8,000 sign-ups in three hours**, shipped a production AI core for a leading neobank, and worked as a specialist in the healthcare datasets used to launch medicines into the UK market.
 
-Today I'm building **Axiom Lift**, because I think the AI industry is making a basic mistake.
+Today I'm building **Axiom Lift**, because I think the AI industry is making a basic mistake, and I'm co-founder of **[Emseapea](https://www.emseapea.ai)**, which gives IT a safe way to say yes to the apps employees are now building with AI.
 
 <br>
 
@@ -86,6 +86,9 @@ Most of my work rests on one idea: **knowledge is a graph, and the structure car
 
 **Axiom Lift** — *Founder* · 2026–present<br>
 Persistent AI identity and memory layer. See above.
+
+**[Emseapea](https://www.emseapea.ai)** — *Co-founder* · 2026–present<br>
+AI tools now let anyone in a company build their own app just by describing it. That's vibe coding, and it's spreading fast: people in finance, ops and marketing are building tools and wiring them straight into Salesforce, Microsoft 365 and company databases, usually without IT knowing. These apps hold live credentials to company data, researchers have already found thousands of them leaking it onto the open internet, and banning them just drives them underground. **Emseapea gives IT a safe way to say yes.** Every app gets its access to company data through us, so IT can see what's been built, control what each app can reach, and switch it off at any time. Underneath, it builds a live dependency-and-permission graph of everything employees have built. It's what IT should have had when Access databases and Excel macros took over, and this time the sprawl is happening in two years, not fifteen.
 
 **Glofaster** — *Founder* · Wearable technology<br>
 Founded and built a wearable tech company, pitched on **BBC Dragons' Den** and launched **exclusively in Harrods**. Took it from hardware concept through manufacturing to luxury retail.
